@@ -2,7 +2,7 @@
 
 # Portfólio Olá, Bem vindo ao meu projeto de portfólio.
 
-![image]![projeto-portfolio-alura](https://github.com/user-attachments/assets/25812e11-6ec8-49ff-9657-f05b10202663)
+![projeto-portfolio-alura](https://github.com/user-attachments/assets/25812e11-6ec8-49ff-9657-f05b10202663)
 
 ## Ferramentas utilizadas:
 
